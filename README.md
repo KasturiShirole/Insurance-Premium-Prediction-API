@@ -9,6 +9,7 @@ Key Frameworks & Technologies:
 5. Scikit-Learn: Core library used for the underlying predictive model logic.
 
 ##  Project Structure
+
 \```text
 ├── config/             # Configuration files
 ├── model/              # Trained .pkl files
