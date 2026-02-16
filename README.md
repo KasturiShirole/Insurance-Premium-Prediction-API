@@ -10,7 +10,7 @@ Key Frameworks & Technologies:
 
 ##  Project Structure
 
-\```text
+```text
 ├── config/             # Configuration files
 ├── model/              # Trained .pkl files
 ├── schema/             # Pydantic validation models
@@ -18,7 +18,6 @@ Key Frameworks & Technologies:
 ├── predict.py          # Prediction logic
 ├── Dockerfile          # Docker configuration
 └── requirements.txt    # Project dependencies
-\```
 
 Implementation Details & Separation of Logic:
 1. Advanced Data Validation (Pydantic)
