@@ -1,0 +1,16 @@
+# Virtual Environment
+myenv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (optional - ignore if too large)
+# model.pkl
+
+# OS files
+.DS_Store
